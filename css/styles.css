@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-color:#5f331d;
+  text-align: right;
+  margin-left: 520px;
+}
+.underline {
+  font-weight: bolder;
+  color: black;
+  text-decoration: underline;
+}
+.italic {
+  font-style: italic;
+}
+a {
+  color: orange;
+}
+a:hover {
+  color: black;
+}
