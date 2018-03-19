@@ -22,3 +22,13 @@ a:hover {
 .links {
   margin-left: 450px;
 }
+img {
+  width: 100px;
+  height:100px;
+  float : 50px;
+}
+.box {
+  border: 2px solid black;
+  padding: 3px;
+  margin: 10px;
+}
