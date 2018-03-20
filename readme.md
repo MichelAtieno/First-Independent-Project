@@ -1,18 +1,17 @@
-# {FI project}
-#### {This is the first ever project I have ever done Independently.}, {19th March 2018}
-#### By **{Michel Atieno}**
+# FI project
+#### This is the first ever project I have ever done Independently. 19th March 2018
+#### By Michel Atieno
 ## Description
-{This webpage is an Introduction of myself to everyone who might come across it. }
+This webpage is an Introduction of myself to everyone who might come across it.
 ## Setup/Installation Requirements
-* Run a Web browser
-* Go to https://github.com/MichelAtieno/First-Project for more information.
+* Run a Web browser. Go to https://michelatieno.github.io/First-Project/ more information.
 {}
 ## Known Bugs
-{There will be changes to my profile often to show progress.}
+There will be changes to my profile often to show progress.
 ## Technologies Used
-{I used HTML and CSS to edit the page.}
+I used HTML and CSS to edit the page.
 ## Support and contact details
-{If any queries are out there regarding page information,feel free to reach out on mishqamish@gmail.com.}
+If any queries are out there regarding page information,feel free to reach out on mishqamish@gmail.com.
 ### License
 *{MIT License
 
