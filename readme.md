@@ -5,7 +5,6 @@
 This webpage is an Introduction of myself to everyone who might come across it.
 ## Setup/Installation Requirements
 * Run a Web browser. Go to https://michelatieno.github.io/First-Project/ more information.
-{}
 ## Known Bugs
 There will be changes to my profile often to show progress.
 ## Technologies Used
@@ -13,7 +12,7 @@ I used HTML and CSS to edit the page.
 ## Support and contact details
 If any queries are out there regarding page information,feel free to reach out on mishqamish@gmail.com.
 ### License
-*{MIT License
+MIT License
 
 Copyright (c) [2018] [MichelAtieno]
 
@@ -33,4 +32,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
+SOFTWARE.
