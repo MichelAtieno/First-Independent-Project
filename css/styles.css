@@ -1,10 +1,11 @@
 body {
   font-family: inherit;
-  background-repeat: no-repeat;
   background-color:#5f331d;
   text-align: right;
-  margin-left: 520px;
+  background-image: url(../images/Mish3.jpg);
+  background-repeat: no-repeat;
 }
+
 .underline{
   font-weight: bolder;
   color: black;
@@ -28,9 +29,12 @@ img {
   float : 50px;
 }
 .box {
+  height:100%;
+  width:740px;
   border: 2px solid black;
   padding: 3px;
-  margin: 10px;
+  margin-left: 520px;
+  margin-top:-10px;
 }
 
 @media screen and (min-width: 580px) {
