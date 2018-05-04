@@ -1,5 +1,5 @@
 # FI project
-#### This is the first ever project I have ever done Independently. 19th March 2018
+#### This is the first ever project I have ever done Independently. 19th March 2018. Edited thoroughly on May 4th,2018.
 #### By Michel Atieno
 ## Description
 This webpage is an Introduction of myself to everyone who might come across it.

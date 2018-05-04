@@ -1,6 +1,7 @@
 body {
-  font-family: inherit;
+  font-style: italic;
   background-color:#5f331d;
+  font-size: 20px;
   /*background-image: url(../images/Mish3.jpg);
   background-repeat: no-repeat;*/
 }
@@ -24,9 +25,7 @@ body {
   color: black;
   text-decoration: underline;
 }
-.italic {
-  font-style: italic;
-}
+
 a {
   color: orange;
 }
@@ -57,11 +56,28 @@ a:hover {
 }
 
 @media screen and (max-width:640px){
+  body {
+    font-style: italic;
+    background-color:#401515;
+  }
+
+  .container-fluid {
+    font-style: italic;
+    color: #c2cace;
+    background-color:#401515;
+    }
+
   .col-md-5 {
     width:100%
   }
   .col-md-7 {
     width: 100;
+  }
+
+  .underline{
+    font-weight: bolder;
+    color: #c2cace;
+    text-decoration: underline;
   }
 
 }
