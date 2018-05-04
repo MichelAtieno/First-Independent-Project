@@ -14,8 +14,6 @@ body {
 }
 
 .container-fluid{
-  background-image: url(../images/Mish3.jpg);
-    background-repeat: no-repeat;
 }
 
 .col-md-7{
@@ -32,26 +30,38 @@ body {
 a {
   color: orange;
 }
+
 a:hover {
   color: black;
 }
-.links {
-  margin-left: 450px;
-}
 
 .box {
-  height:140%;
+  height:100%;
   border: 2px solid black;
   padding: 3px;
-  margin-left:530px;
 }
 
-#footer{
-    margin-left: 85px;
-}
-@media screen and (min-width: 580px) {
-  body {
-        background-color:#82381e;
-        color: black;
+
+@media screen and (max-width:700px) {
+  .container-fluid {
+    font-family: inherit;
+    background-color:#5f331d;
     }
+
+    .box {
+        width:100%;
+    }
+    img{
+      width: 40%;
+    }
+}
+
+@media screen and (max-width:640px){
+  .col-md-5 {
+    width:100%
+  }
+  .col-md-7 {
+    width: 100;
+  }
+
 }
