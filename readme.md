@@ -4,7 +4,7 @@
 ## Description
 This webpage is an Introduction of myself to everyone who might come across it.
 ## Setup/Installation Requirements
-* Run a Web browser. Go to https://michelatieno.github.io/First-Project/ more information.
+* Run a Web browser. Go to https://michelatieno.github.io/First-Independent-Project/ to view the webpage.
 ## Known Bugs
 There will be changes to my profile often to show progress.
 ## Technologies Used
