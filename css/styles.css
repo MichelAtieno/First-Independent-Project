@@ -1,9 +1,24 @@
 body {
   font-family: inherit;
   background-color:#5f331d;
-  text-align: right;
+  /*background-image: url(../images/Mish3.jpg);
+  background-repeat: no-repeat;*/
+}
+
+.row{
+  display: flex;
+}
+
+.container-fluid html{
+    height: 100%;
+}
+
+.container-fluid{
   background-image: url(../images/Mish3.jpg);
-  background-repeat: no-repeat;
+    background-repeat: no-repeat;
+}
+
+.col-md-7{
 }
 
 .underline{
@@ -23,20 +38,17 @@ a:hover {
 .links {
   margin-left: 450px;
 }
-img {
-  width: 100px;
-  height:100px;
-  float : 50px;
-}
+
 .box {
-  height:100%;
-  width:740px;
+  height:140%;
   border: 2px solid black;
   padding: 3px;
-  margin-left: 520px;
-  margin-top:-10px;
+  margin-left:530px;
 }
 
+#footer{
+    margin-left: 85px;
+}
 @media screen and (min-width: 580px) {
   body {
         background-color:#82381e;
